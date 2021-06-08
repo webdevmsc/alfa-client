@@ -50,7 +50,7 @@ const userValidationSchema = yup.object({
     login: yup
         .string(`Enter login`)
         .min(3, 'At least 3 characters')
-        .max(30, 'Max 30 characters')
+        .max(60, 'Max 60 characters')
         .required('Login is required')
 })
 
