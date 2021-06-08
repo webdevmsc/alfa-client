@@ -23,3 +23,4 @@ export const usersAPI = {
         return instance.put(`users`, {...user}).then(response => response.data);
     }
 }
+
