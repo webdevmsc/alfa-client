@@ -2,11 +2,7 @@ import axios from "axios";
 import * as https from "https";
 
 const instance = axios.create({
-    baseURL: 'https://webdevfds-001-site1.itempurl.com/',
-    httpsAgent:
-        new https.Agent({
-            rejectUnauthorized: false
-        })
+    baseURL: 'http://webdevfds-001-site1.itempurl.com/'
 })
 
 export const usersAPI = {
