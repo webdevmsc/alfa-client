@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alfa-client/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/alfa-client/static/js/main.ed1a0e40.chunk.js",
+    "main.js.map": "/alfa-client/static/js/main.ed1a0e40.chunk.js.map",
+    "runtime-main.js": "/alfa-client/static/js/runtime-main.f1419501.js",
+    "runtime-main.js.map": "/alfa-client/static/js/runtime-main.f1419501.js.map",
+    "static/js/2.8c3d2f74.chunk.js": "/alfa-client/static/js/2.8c3d2f74.chunk.js",
+    "static/js/2.8c3d2f74.chunk.js.map": "/alfa-client/static/js/2.8c3d2f74.chunk.js.map",
+    "static/js/3.e97153e5.chunk.js": "/alfa-client/static/js/3.e97153e5.chunk.js",
+    "static/js/3.e97153e5.chunk.js.map": "/alfa-client/static/js/3.e97153e5.chunk.js.map",
+    "index.html": "/alfa-client/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/alfa-client/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.8c3d2f74.chunk.js.LICENSE.txt": "/alfa-client/static/js/2.8c3d2f74.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1419501.js",
+    "static/js/2.8c3d2f74.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.ed1a0e40.chunk.js"
+  ]
+}
